@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Puru<br><br>I’m a passionate Full-Stack Developer & AI Enthusiast who loves building real-world solutions using Python, JavaScript, Django, Flask, Firebase, and Web Technologies.<br><br>💡 I’ve worked on projects involving fake social media profile detection, AI-powered tools, cybersecurity automation, and lead generation systems, including solutions developed for government and security agencies.<br><br>🚀 I enjoy hackathons, problem-solving, and turning ideas into scalable products. Always learning, always building.<br><br>📌 Interests: AI 🤖 | Cybersecurity 🔐 | Web Development 🌐 | Automation ⚙️
+👋 Hi, I’m Puru<br><br>I’m a passionate Full-Stack Developer & AI Enthusiast who loves building real-world solutions using Python,NextJS,React,JavaScript, Firebase, and Web Technologies.<br><br>💡 I’ve worked on projects involving fake social media profile detection, AI-powered tools, cybersecurity automation, and lead generation systems, including solutions developed for government and security agencies.<br><br>🚀 I enjoy hackathons, problem-solving, and turning ideas into scalable products. Always learning, always building.<br><br>📌 Interests: AI 🤖 | Cybersecurity 🔐 | Web Development 🌐 | Automation ⚙️
 
 
 ## 🌐 Socials:
